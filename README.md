@@ -24,7 +24,7 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 ## Contributions and Support
 
 - We welcome contributions from the community. Check our [Contribution Guidelines](#link-to-contribution-guidelines) for details.
-- If you have questions or need support, please [Contact Us](#link-to-contact).
+- If you have questions or need support, please [Contact Us](asialakay@gmail.com).
 
 ## Project Status
 
@@ -40,7 +40,7 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 
 ## Contact
 
-- For inquiries or support, contact us at [email@example.com].
+- For inquiries or support, contact us at [asialakay@gmail.com].
 
 ## Stay Connected
 
