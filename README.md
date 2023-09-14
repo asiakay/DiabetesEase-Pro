@@ -28,7 +28,7 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 
 ## Project Status
 
-- DiabeteEase Pro is actively developed, with regular updates and improvements.
+- DiabeteEase Pro is at ideation stage  and will be actively developed, with regular updates and improvements.
 
 ## License
 
