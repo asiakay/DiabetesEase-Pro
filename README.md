@@ -1,6 +1,6 @@
 # DiabeteEase Pro
 
-![DiabeteEase Pro Logo](link-to-your-logo.png)
+![DiabeteEase Pro Logo](public/DiabetesEase-Pro.svg)
 
 ## About DiabeteEase Pro
 
