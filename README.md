@@ -30,6 +30,8 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 
 - DiabeteEase Pro is at ideation stage and will be actively developed, with regular updates and improvements.
 
+[![Deploy to Firebase Hosting on merge](https://github.com/asiakay/DiabetesEase-Pro/actions/workflows/firebase-hosting-merge.yml/badge.svg)](https://github.com/asiakay/DiabetesEase-Pro/actions/workflows/firebase-hosting-merge.yml)
+
 ## License
 
 - This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
