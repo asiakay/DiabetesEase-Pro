@@ -1,1 +1,7 @@
-export default mealplan.js
+import React from 'react'
+
+function MealPlanPage(){
+    // 
+}
+
+export default MealPlanPage;
