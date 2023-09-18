@@ -28,11 +28,7 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 
 ## Project Status
 
-<<<<<<< HEAD
 - DiabeteEase Pro is at ideation stage and will be actively developed, with regular updates and improvements.
-=======
-- DiabeteEase Pro is at ideation stage  and will be actively developed, with regular updates and improvements.
->>>>>>> 148ce7f9966f226542fffbd39dcae429094be0dd
 
 ## License
 
@@ -50,7 +46,6 @@ DiabeteEase Pro is a comprehensive mobile application designed to simplify diabe
 
 - Follow us on [Twitter](#link-to-twitter) | [Facebook](#link-to-facebook) | [Instagram](#link-to-instagram) for updates.
 
-<<<<<<< HEAD
 [Installation Guide](#link-to-installation-guide)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
@@ -91,5 +86,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
->>>>>>> 148ce7f9966f226542fffbd39dcae429094be0dd
